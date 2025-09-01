@@ -46,4 +46,6 @@
 //* git checkout <branch_name>          -> switch to new branch
 
 
-//* some chnage son new branch
+//* some change son new branch1
+//* some change son new branch2
+//* some change son new branch3
