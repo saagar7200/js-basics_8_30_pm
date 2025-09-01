@@ -46,4 +46,7 @@
 //* git checkout <branch_name>          -> switch to new branch
 
 
+//! merging
+//* git merge <branch_name>
+
 
