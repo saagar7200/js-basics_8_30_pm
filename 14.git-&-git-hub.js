@@ -48,5 +48,6 @@
 
 //! merging
 //* git merge <branch_name>
+//* git pull origin <branch_name> 
 
 
