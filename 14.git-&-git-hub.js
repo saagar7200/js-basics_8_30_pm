@@ -64,3 +64,7 @@
 
 //* git stash       -> save changes temporarily
 //* git stash pop   -> apply last stashed/ changes
+//* git stash list  -> list all stash
+
+
+//* pull request
