@@ -61,3 +61,6 @@
 // 
 
 
+
+//* git stash       -> save changes temporarily
+//* git stash pop   -> apply last stashed/ changes
