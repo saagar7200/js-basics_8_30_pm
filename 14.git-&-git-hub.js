@@ -52,14 +52,11 @@
 
 // log commit history
 //* git log -> list all commit history
+//* git log --oneline -> list all commit history
 
 //! Undoing changes
 // git reset --soft <commit_id>  -> undo last commit but keeps the changes
 // git reset --hard <commit_id>  -> undo last commit completely
-
-
-// 
-
 
 
 //* git stash       -> save changes temporarily
@@ -68,3 +65,9 @@
 
 
 //* pull request
+// pull request lets other developers to:
+// 1. Review our changes
+// 2. Comment
+// 3. suggest modifications
+// 4. accept anf merge changes to main project
+
