@@ -50,4 +50,10 @@
 //* git merge <branch_name>
 //* git pull origin <branch_name> 
 
+// log commit history
+//* git log
+
+
+// 
+
 
