@@ -51,7 +51,11 @@
 //* git pull origin <branch_name> 
 
 // log commit history
-//* git log
+//* git log -> list all commit history
+
+//! Undoing changes
+// git reset --soft <commit_id>  -> undo last commit but keeps the changes
+// git reset --hard <commit_id>  -> undo last commit completely
 
 
 // 
